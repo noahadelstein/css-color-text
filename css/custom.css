@@ -7,11 +7,12 @@
 .heading:hover small { background-color: purple; }
 .heading small {
   font-size: 50%;
+  cursor: crosshair;
   color: Green; 
 }
 body {
   background-color: #C0C0C0;
 }
-.box { height: 400px; width: 400px; color: yellow; 
+.box { height: 400px; width: 400px; 
   Box-shadow: 5px 5px 5px #777777
 }
