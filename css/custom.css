@@ -4,6 +4,7 @@
   font-family: Georgia;
   font-size: 200%;
 }
+.heading:hover { background-color: #665544; }
 .heading small {
   font-size: 50%;
   color: Red; 
