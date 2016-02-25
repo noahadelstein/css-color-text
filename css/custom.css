@@ -3,6 +3,7 @@
 .heading  h1 {
   font-family: Georgia;
   font-size: 200%;
+  text-transform: uppercase;
 }
 .heading:hover small { background-color: white; }
 :active h2 {
