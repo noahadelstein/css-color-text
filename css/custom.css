@@ -12,6 +12,6 @@
 .body {
   background-color: #C0C0C0;
 }
-.box { height: 100px; width: 100px; color: Red; 
+.box { height: 300px; width: 400px; color: Red; 
   Box-shadow: 5px 5px 5px #777777
 }
