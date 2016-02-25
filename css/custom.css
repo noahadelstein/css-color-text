@@ -9,4 +9,7 @@
   font-size: 50%;
   color: Red; 
 }
+.body {
+  background-color: #C0C0C0;
+}
 .box { height: 300px; width: 400px; color: Red; }
