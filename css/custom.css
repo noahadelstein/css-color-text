@@ -15,4 +15,5 @@ body {
 }
 .box { height: 400px; width: 400px; 
   Box-shadow: 5px 5px 5px #777777
+  border-style: ridge;
 }
