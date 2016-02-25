@@ -5,6 +5,9 @@
   font-size: 200%;
 }
 .heading:hover small { background-color: purple; }
+.box:active {
+  Color: black;
+}
 .heading small {
   font-size: 50%;
   cursor: crosshair;
