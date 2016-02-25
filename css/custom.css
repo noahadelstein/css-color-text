@@ -6,7 +6,7 @@
 }
 .heading:hover small { background-color: white; }
 .box:active {
-  Color: black;
+  color: black;
 }
 .heading small {
   font-size: 50%;
