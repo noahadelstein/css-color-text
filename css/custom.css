@@ -1,4 +1,7 @@
 * {
   box-sizing: border-box; }
-
+.heading  h1 {
+  font-family: Georgia;
+  font-size: 200%;
+}
 /*insert custom css below*/
