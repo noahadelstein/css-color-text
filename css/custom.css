@@ -4,7 +4,7 @@
   font-family: Georgia;
   font-size: 200%;
 }
-.heading:hover small { background-color: purple; }
+.heading:hover small { background-color: white; }
 .box:active {
   Color: black;
 }
