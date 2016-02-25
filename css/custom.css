@@ -4,4 +4,8 @@
   font-family: Georgia;
   font-size: 200%;
 }
+.heading small {
+  font-size: 50%;
+  color: Red; 
+}
 /*insert custom css below*/
